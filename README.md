@@ -1,6 +1,6 @@
 # Data Analyst
 
-### A fresher Data Analyst who loves to play with code and figures to create amazing stories 
+#### A fresher Data Analyst who loves to play with code and figures to create amazing stories 
 
  hoangkyle1907@gmail.com
  
