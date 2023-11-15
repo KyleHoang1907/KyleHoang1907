@@ -5,8 +5,8 @@ Data Analyst
  hoangkyle1907@gmail.com
  
 # Technical Skills
-## Excel: Pivot table, Dashboarding, Business Analytics, Data Analysis using Statistics
-## SQL: MySQL, PostgreSQL, Google BigQuery
-## Power BI: DAX, Power Query, Data Modeling
-## Python: Pandas, NumPy, Seaborn, MatPlotLib
-## Machine Learning: Supervised Learning with Scikit-learn
+# Excel: Pivot table, Dashboarding, Business Analytics, Data Analysis using Statistics
+# SQL: MySQL, PostgreSQL, Google BigQuery
+# Power BI: DAX, Power Query, Data Modeling
+# Python: Pandas, NumPy, Seaborn, MatPlotLib
+# Machine Learning: Supervised Learning with Scikit-learn
