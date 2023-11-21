@@ -12,9 +12,9 @@
 ### Machine Learning: Supervised Learning with Scikit-learn
 
 # Projects
- ### Pizza sales KyleHoang1907/Pizza-Sales 
- ### RFM-analysis KyleHoang1907/RFM-analysis 
- ### Global-Superstore KyleHoang1907/Global-Superstore 
+ ### Pizza sales 
+ ### RFM-analysis 
+ ### Global-Superstore 
 
 
 
