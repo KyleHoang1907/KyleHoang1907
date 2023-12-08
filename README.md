@@ -11,10 +11,7 @@
 ### Python: Pandas, NumPy, Seaborn, MatPlotLib
 ### Machine Learning: Supervised Learning with Scikit-learn
 
-# Projects
- ### Pizza sales 
- ### RFM-analysis 
- ### Global-Superstore 
+
 
 
 
