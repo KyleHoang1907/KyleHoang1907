@@ -21,6 +21,7 @@
    ### - Result: 
 
 ## 3. RFM-analysis
+   ### - Code: https://github.com/KyleHoang1907/RFM-analysis
    ### - Goal: 
    ### - Description:
    ### - Skills: 
@@ -28,27 +29,32 @@
    ### - Result:
 
 ## 4. HR-analytics
-   ### - Goal: 
+   ### - Goal: https://github.com/KyleHoang1907/HR-Analytics
    ### - Description:
    ### - Skills: 
    ### - Technology:
    ### - Result:
 
 ## 5. Success-of-a-movie
-   ### - Goal: 
+   ### - Goal: https://github.com/KyleHoang1907/Success-of-a-Movie
    ### - Description:
    ### - Skills: 
    ### - Technology:
-   ### - Result:
+   ### - Result: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 
 ## 6. Global-Superstore
-   ### - Goal: 
+   ### - Goal: https://github.com/KyleHoang1907/Global-Superstore
    ### - Description:
    ### - Skills: 
-   ### - Technology:
+   ### - Technology: PowerBI
    ### - Result:
 
-
+## 7. Covid-19
+   ### - Goal: https://github.com/KyleHoang1907/Global-Superstore
+   ### - Description: The dataset contains records of Covid-19 cases, deaths and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis)
+   ### - Skills: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions
+   ### - Technology: Googlesheet, Google Bigquery
+    
 
 
 
