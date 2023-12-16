@@ -11,9 +11,43 @@
 ### Python: Pandas, NumPy, Seaborn, MatPlotLib
 ### Machine Learning: Supervised Learning with Scikit-learn
 
-# Project
-1. Pizza sales
-   ## Skills: data cleaning, pivot table, window function, data analysis, data visualization, problem solving.
+# Projects 
+## 1. Pizza-sales
+   ### - Goal: 
+   ### - Description:
+   ### - Skills: data cleaning, pivot table, window function, data analysis, data visualization, problem solving.
+   ### - Technology:
+   ### - Result: 
+
+## 3. RFM-analysis
+   ### - Goal: 
+   ### - Description:
+   ### - Skills: 
+   ### - Technology:
+   ### - Result:
+
+## 4. HR-analytics
+   ### - Goal: 
+   ### - Description:
+   ### - Skills: 
+   ### - Technology:
+   ### - Result:
+
+## 5. Success-of-a-movie
+   ### - Goal: 
+   ### - Description:
+   ### - Skills: 
+   ### - Technology:
+   ### - Result:
+
+## 6. Global-Superstore
+   ### - Goal: 
+   ### - Description:
+   ### - Skills: 
+   ### - Technology:
+   ### - Result:
+
+
 
 
 
