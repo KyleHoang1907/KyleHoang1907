@@ -16,7 +16,7 @@
    ### - Code: https://github.com/KyleHoang1907/Pizza-Sales
    ### - Goal: Analyze key metrics of pizza sales data to understand the business situation and customer needs
    ### - Description: The pizza store is a newly opened store but is also the best-selling food store in the market, the number of orders increases day by day. Every second, order data is constantly updated, so store owners cannot control the data with conventional paper methods. They have data analysts come up with KPI's requirement indicators and create charts that make the data more listener-friendly
-   ### - Skills: data cleaning, pivot table, window function, data analysis, data visualization, problem solving
+   ### - Skills: data cleaning, pivot table, window function, data analysis, data visualization
    ### - Technology: Excel, SQL Server
    ### - Result: The main aim is to focus on the types of products that sell well and point out the less popular pizzas in order to increase sales and reduce materials for less efficient product
 
@@ -24,7 +24,7 @@
    ### - Code: https://github.com/KyleHoang1907/RFM-analysis
    ### - Description: The Marketing Director also proposed a plan to use the RFM model in Python to segment customers, and then launch appropriate marketing campaigns. Analyze the current situation of the company and give suggestions to the Marketing team
    ### - Skills: data cleaning, data analysis, data merge
-   ### - Technology: Python, Pandas, Numpy, Seaborn, Warnings, Squarify, Datetme
+   ### - Technology: Python, Pandas, Numpy, Seaborn, Warnings, Squarify, Datetime
 
 ## 4. HR-analytics
    ### - Goal: https://github.com/KyleHoang1907/HR-Analytics
@@ -42,10 +42,10 @@
 
 ## 6. Global-Superstore
    ### - Goal: https://github.com/KyleHoang1907/Global-Superstore
-   ### - Description:
-   ### - Skills: 
+   ### - Description: Business intelligence project capturing descriptive and predictive analytics
+   ### - Skills: Power Query, DAX, Visualization, Insights and Recommendation, Time Intelligence
    ### - Technology: PowerBI
-   ### - Result:
+   ### - Result: Using Power Bi to create Dashboard to offer insights and recommendations to help Senior Manager see information about the business situation to offer market expansion strategy and decide to select strategic products.
 
 ## 7. Covid-19
    ### - Code: https://github.com/KyleHoang1907/Covid19
