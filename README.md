@@ -13,6 +13,7 @@
 
 # Projects 
 ## 1. Pizza-sales
+   ### - Code: https://github.com/KyleHoang1907/Pizza-Sales
    ### - Goal: 
    ### - Description:
    ### - Skills: data cleaning, pivot table, window function, data analysis, data visualization, problem solving.
