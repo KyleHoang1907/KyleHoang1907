@@ -50,7 +50,7 @@
    ### - Result:
 
 ## 7. Covid-19
-   ### - Code: [https://github.com/KyleHoang1907/Global-Superstore](https://github.com/KyleHoang1907/Covid19/blob/main/Google%20Bigquery%20query.pdf)
+   ### - Code: https://github.com/KyleHoang1907/Covid19
    ### - Description: The dataset contains records of Covid-19 cases, deaths and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis)
    ### - Skills: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions
    ### - Technology: Googlesheet, Google Bigquery
