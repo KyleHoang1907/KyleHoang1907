@@ -12,28 +12,25 @@
 ### Machine Learning: Supervised Learning with Scikit-learn
 
 # Projects 
-## 1. Pizza-sales
+## 1. Pizza-Sales
    ### - Code: https://github.com/KyleHoang1907/Pizza-Sales
-   ### - Goal: 
-   ### - Description:
-   ### - Skills: data cleaning, pivot table, window function, data analysis, data visualization, problem solving.
-   ### - Technology:
-   ### - Result: 
+   ### - Goal: Analyze key metrics of pizza sales data to understand the business situation and customer needs
+   ### - Description: The pizza store is a newly opened store but is also the best-selling food store in the market, the number of orders increases day by day. Every second, order data is constantly updated, so store owners cannot control the data with conventional paper methods. They have data analysts come up with KPI's requirement indicators and create charts that make the data more listener-friendly
+   ### - Skills: data cleaning, pivot table, window function, data analysis, data visualization, problem solving
+   ### - Technology: Excel, SQL Server
+   ### - Result: The main aim is to focus on the types of products that sell well and point out the less popular pizzas in order to increase sales and reduce materials for less efficient product
 
 ## 3. RFM-analysis
    ### - Code: https://github.com/KyleHoang1907/RFM-analysis
-   ### - Goal: 
-   ### - Description:
-   ### - Skills: 
-   ### - Technology:
-   ### - Result:
+   ### - Description: The Marketing Director also proposed a plan to use the RFM model in Python to segment customers, and then launch appropriate marketing campaigns. Analyze the current situation of the company and give suggestions to the Marketing team
+   ### - Skills: data cleaning, data analysis, data merge
+   ### - Technology: Python, Pandas, Numpy, Seaborn, Warnings, Squarify, Datetme
 
 ## 4. HR-analytics
    ### - Goal: https://github.com/KyleHoang1907/HR-Analytics
-   ### - Description:
-   ### - Skills: 
-   ### - Technology:
-   ### - Result:
+   ### - Description: Analyze data about employees to encourage healthy lifestyles, Use SQL Server to query and analyze databases. Then use the data visualization tool PowerBI to create a table to help HR understand the situation of employees absent from the workplace
+   ### - Skills: Joins, Data Manipulation, DAX, Power Query, Visualization
+   ### - Technology: SQL Server, PowerBI
 
 ## 5. Success-of-a-movie
    ### - Code: https://github.com/KyleHoang1907/Success-of-a-Movie
