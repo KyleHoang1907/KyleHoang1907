@@ -1,6 +1,6 @@
 # Data Analyst
 
-#### A fresher Data Analyst who loves to play with code and figures to create amazing stories 
+#### dụng  I am a data analyst in using various tools and have a solid understanding of data analytics techniques such as dashboard building, report writing, data merging, statistics, and critical thinking.You will find links of the dashboards and reports I have created using various tools such as Power BI, SQL and Python. These projects demonstrate my ability to analyze and present data in a clear and visually appealing way, making it easy for decision makers to understand the insights and take action. 
 
  hoangkyle727@gmail.com
  
