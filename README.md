@@ -9,7 +9,6 @@
 ### SQL: MS SQL server, PostgreSQL, Google BigQuery 
 ### Power BI: DAX, Power Query, Data Modeling
 ### Python: Pandas, NumPy, Seaborn, MatPlotLib
-### Machine Learning: Supervised Learning with Scikit-learn
 
 # Projects 
 ## 1. Pizza-Sales
